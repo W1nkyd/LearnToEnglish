@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653884502409",
+    "project_id": "pr02s02",
+    "storage_bucket": "pr02s02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653884502409:android:d9b70e1a35e62917217158",
+        "android_client_info": {
+          "package_name": "com.example.prakt2secondsemestr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF6nYC1zfSJAr_q70wxq32p9nQkbBJNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

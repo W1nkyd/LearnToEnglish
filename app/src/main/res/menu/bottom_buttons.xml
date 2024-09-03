@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="Main"
+    android:icon="@drawable/baseline_electric_bolt_24"
+    android:id="@+id/Main"
+    />
+    <item android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/baseline_add_reaction_24"
+        />
+    <item android:id="@+id/table"
+        android:title="table"
+        android:icon="@drawable/baseline_workspace_premium_24"
+        />
+</menu>
